@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCROv_2rW-ohqyv0PiRcekPmXjpvG9Ocl8',
-    authDomain: 'angular-quiz-app-9594c.firebaseapp.com',
-    projectId: 'angular-quiz-app-9594c',
-    storageBucket: 'angular-quiz-app-9594c.appspot.com',
-    messagingSenderId: '378700454640',
-    appId: '1:378700454640:web:b9e382a999dee7a6798035',
-    measurementId: 'G-HRKDQ7SCTY'
+    apiKey: '',
+    authDomain: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
+    appId: '',
+    measurementId: ''
   }
 };
 
